@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[97367,["/Universal-ACG-Generator-Lite/_next/static/chunks/ddc760a816911095.js","/Universal-ACG-Generator-Lite/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
-3:I[97367,["/Universal-ACG-Generator-Lite/_next/static/chunks/ddc760a816911095.js","/Universal-ACG-Generator-Lite/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
-4:"$Sreact.suspense"
-0:{"buildId":"AtOj2skqOsi9cE8FwALHN","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"漫剧工坊"}],["$","meta","1",{"name":"description","content":"上传剧本自动解析角色、场景与剧情，生成插画与分镜视频"}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
